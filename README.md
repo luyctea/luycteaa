@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://count.getloli.com/get/@ArviSlayer?theme=rule34" />
+  <img src="https://count.getloli.com/get/@luyctea?theme=rule34" />
 </p>
   
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luyctea&theme=monokai)
